@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive and professional `README.md` file for your project. You can copy and paste this directly into a `README.md` file in your GitHub repository.
-
------
-
 # Product Review Sentiment Analysis with Deep Learning 💬
 
 This project builds a deep learning model to perform multi-class sentiment analysis on customer reviews. Using a Recurrent Neural Network (LSTM/GRU), the model classifies Amazon Fine Food Reviews into **positive**, **neutral**, or **negative** categories. It covers the complete end-to-end Natural Language Processing (NLP) workflow, from raw text preprocessing to model training and in-depth evaluation.
