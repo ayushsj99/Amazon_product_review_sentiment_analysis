@@ -84,10 +84,6 @@ The model achieves a validation accuracy of **[Your Accuracy Here]%**. The evalu
 weighted avg       0.89      0.90      0.90    113710
 ```
 
-#### Confusion Matrix
-
-*(Insert an image of your confusion matrix here)*
-`![Confusion Matrix](path/to/your/confusion_matrix.png)`
 
 -----
 
